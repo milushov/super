@@ -1,0 +1,5 @@
+en:
+  pluralize:
+    day:
+      one: 'day'
+      other: 'days'

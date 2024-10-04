@@ -1,0 +1,19 @@
+# @see https://crontab.guru/
+
+# at 1 AM every day
+stat:
+  cron: "0 1 * * *"
+  class: "StatWorker"
+  queue: :default
+
+# every minute
+wrappers_telegram_bot_update_long_bot_commands:
+  cron: "*/1 * * * *"
+  class: "Wrappers::TelegramBot::UpdateLongBotCommandsWorker"
+  queue: :default
+
+# every minute
+wrappers_telegram_bot_expire_long_bot_commands:
+  cron: "*/1 * * * *"
+  class: "Wrappers::TelegramBot::ExpireLongBotCommandsWorker"
+  queue: :default

@@ -1,0 +1,45 @@
+service: super
+
+image: milushov/super
+
+proxy:
+  host: super.wheres.me
+  app_port: 3000
+  ssl: true
+  forward_headers: true
+
+# ssh:
+#   log_level: debug
+
+servers:
+  web:
+    hosts:
+      - super.wheres.me
+
+  job:
+    hosts:
+      - super.wheres.me
+    cmd: bundle exec sidekiq -C config/sidekiq.yml
+
+registry:
+  server: registry.digitalocean.com/super-awesome
+  username:
+    - KAMAL_REGISTRY_PASSWORD
+  password:
+    - KAMAL_REGISTRY_PASSWORD
+
+# These ENVs required for runtime
+env:
+  secret:
+    - SECRET_KEY_BASE
+    - RAILS_MASTER_KEY
+    - KAMAL_REGISTRY_PASSWORD
+
+builder:
+  dockerfile: Dockerfile.production
+  secrets:
+    - SECRET_KEY_BASE
+    - RAILS_MASTER_KEY
+  cache:
+    type: registry
+  arch: amd64

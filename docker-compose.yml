@@ -1,0 +1,87 @@
+x-environment: &x-environment
+  REDIS_URL: redis://redis:6379/0
+
+x-backend: &x-backend
+  build:
+    context: .
+    ssh: ["default"]
+  volumes:
+    - .:/app:cached
+    - rails_cache:/app/tmp/cache
+    - bundle:/bundle
+    - history:/usr/local/hist
+    - ./.dockerdev/.psqlrc:/root/.psqlrc:ro
+    # - ./.dockerdev/.bashrc:/root/.bashrc:ro
+    - ./.dockerdev/.irbrc:/root/.irbrc:ro
+    - ./.dockerdev/private_methods.rb:/private_methods.rb
+  stdin_open: true
+  tty: true
+  environment:
+    <<: *x-environment
+    MALLOC_ARENA_MAX: 2 # What is this?
+    HISTFILE: /usr/local/hist/.bash_history # TODO: ask Vlad why it does not work
+    PSQL_HISTFILE: /usr/local/hist/.psql_history
+    IRB_HISTFILE: /usr/local/hist/.irb_history
+  env_file: .env
+  depends_on:
+    pg:
+      condition: service_healthy
+    redis:
+      condition: service_healthy
+  tmpfs:
+    - /tmp
+    - /app/tmp/pids
+
+services:
+  pg:
+    image: postgres:15
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: super-app
+      POSTGRES_PASSWORD: super-app
+      PSQL_HISTFILE: /user/local/hist/.psql_history
+    volumes:
+      - ./.dockerdev/.psqlrc:/root/.psqlrc:ro
+      - postgres:/var/lib/postgresql/data
+      - history:/user/local/hist
+    healthcheck:
+      test: pg_isready -U super-app
+      interval: 2s
+      timeout: 5s
+      retries: 30
+
+  redis:
+    image: redis:7.0
+    volumes:
+      - redis:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 1s
+      timeout: 3s
+      retries: 30
+
+  sidekiq:
+    <<: *x-backend
+    command: bundle exec sidekiq -C config/sidekiq.yml
+
+  app:
+    <<: *x-backend
+    command: bash -c "rm -f tmp/pids/server.pid && bin/rails s -p 3000 -b '0.0.0.0'"
+
+  tailwindcss:
+    <<: *x-backend
+    command: bash -c "bin/rails tailwindcss:watch"
+
+  ngrok:
+    image: ngrok/ngrok:latest
+    volumes:
+      - ./config/ngrok.yml:/etc/ngrok.yml
+    command: http --config=/etc/ngrok.yml --domain=${NGROK_DOMAIN} app:3000
+
+volumes:
+  postgres:
+  redis:
+  bundle:
+  rails_cache:
+  history:

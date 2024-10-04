@@ -1,0 +1,7 @@
+ru:
+  pluralize:
+    day:
+      one: 'день'
+      few: 'дня'
+      many: 'дней'
+      other: 'дней'

@@ -1,0 +1,15 @@
+version: '3.9'
+
+services:
+  app:
+    ports:
+      - '3000:3000'
+  pg:
+    ports:
+      - '5432:5432'
+  redis:
+    ports:
+      - '6379:6379'
+  ngrok:
+    ports:
+      - '4040:4040'

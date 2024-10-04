@@ -1,0 +1,17 @@
+defaults: &defaults
+  # Currently used only for user's temporary emails
+  domain: wheres.dev
+
+test:
+  <<: *defaults
+
+development:
+  <<: *defaults
+
+production: &production
+  <<: *defaults
+  domain: super.wheres.me
+
+staging:
+  <<: *production
+  domain: staging.super.wheres.me

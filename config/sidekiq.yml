@@ -1,0 +1,10 @@
+---
+# this config loads before rails boot.rb so .env variables not available here
+:concurrency: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+:timeout: 30
+:queues:
+  - ['critical', 50]
+  - ['telegram', 30]
+  - ['feedbacks', 10]
+  - ['answers', 10]
+  - ['default', 10]

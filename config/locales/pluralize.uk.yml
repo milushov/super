@@ -1,0 +1,7 @@
+uk:
+  pluralize:
+    day:
+      one: 'день'
+      few: 'дні'
+      many: 'днів'
+      other: 'днів'

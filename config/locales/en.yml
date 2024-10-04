@@ -1,0 +1,44 @@
+en:
+  errors:
+    travel_plans:
+      manage:
+        ignore: You are tyring to save same travel plans
+
+  contracts:
+    errors:
+      wrong_date_format: must be a valid date in the format YYYY-MM-DD
+      end_after_start: end date must be after the start date
+
+  telegram_bot:
+    help: |
+      Important to mention the exact month (eg: January) so 🤖 bot will catch you are talking about plans
+
+      For example you can 🎤 say or 💬 text:
+      I'm going to Japan at 10th September for 1 month, after that I'm going to Bali for two weeks.
+
+      You can see your plans and your friends' plans in the dashboard below!
+    try_again: Try again please
+    error: Command not found
+    plans_updated: Your travel plans have been updated! You can check your dashboard
+    wrong_voice: There is no mention of any month of the year. Please try again.
+    not_enough_info_in_voice: There is not enough information in the voice message. Please try again.
+    canceled_plans: Canceled plans
+    confirmed_plans: Confirmed plans
+    my_travel_plans: My travel plans
+    are_plans_correct: Are these plans correct?
+    private:
+      intro: |
+        Hello, there! You can create ✈️ travel plans using voice message or text.
+    supergroup:
+      intro: |
+        Hello, there! You can create ✈️ travel plans using voice message or text. Click /plan and send a voice message after the following message. Or /plan and the text of the message.
+
+        ‼️  To allow 🤖 to work with <b>Voice messages</b> in group, promote the bot as Admin
+      init_long_bot_command:
+        info_message:
+          start: Waiting for <b>voice message</b>..
+          update:
+            one: Waiting for voice message for %{minutes} minute..
+            other: Waiting for voice message for %{minutes} minutes..
+
+

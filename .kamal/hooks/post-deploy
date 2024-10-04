@@ -1,0 +1,22 @@
+#!/bin/sh
+
+# A sample post-deploy hook
+#
+# These environment variables are available:
+# KAMAL_RECORDED_AT
+# KAMAL_PERFORMER
+# KAMAL_VERSION
+# KAMAL_HOSTS
+# KAMAL_ROLE (if set)
+# KAMAL_DESTINATION (if set)
+# KAMAL_RUNTIME
+
+# # Convert KAMAL_RUNTIME from seconds to minutes
+# KAMAL_RUNTIME_IN_MINUTES=$((KAMAL_RUNTIME / 60))
+# 
+# # @StupidNotificationsBot
+# TELEGRAM_TOKEN=6595863073:AAHAcygxsbLo96q2tm9tKkXKT0OAkyGA48E
+# 
+# message="🎉 Deployed new version [$KAMAL_VERSION](https://gitlab.com/milushov/super/-/commit/$KAMAL_VERSION) in $KAMAL_RUNTIME_IN_MINUTES minutes"
+# escaped_message=$(printf "$message" | sed 's/\./\\./g' | sed 's/-/\\-/g' | sed 's/_/\\_/g')
+# wget --debug --post-data "chat_id=299565&text=$escaped_message&parse_mode=MarkdownV2" --output-document - "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage"

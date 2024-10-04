@@ -1,0 +1,8 @@
+#!/bin/bash -e
+
+# If running the rails server then create or migrate existing database
+if [ "${*}" == "./bin/rails server -e production" ]; then
+  RAILS_ENV=production ./bin/rails db:prepare db:migrate
+fi
+
+exec "${@}"

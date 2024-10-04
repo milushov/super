@@ -1,0 +1,1127 @@
+[
+  {
+    "country": "United States",
+    "cities": ["New York", "Los Angeles", "Chicago"],
+    "flag": "🇺🇸"
+  },
+  {
+    "country": "Canada",
+    "cities": ["Toronto", "Vancouver", "Montreal"],
+    "flag": "🇨🇦"
+  },
+  {
+    "country": "United Kingdom",
+    "cities": ["London", "Birmingham", "Manchester"],
+    "flag": "🇬🇧"
+  },
+  {
+    "country": "Australia",
+    "cities": ["Sydney", "Melbourne", "Brisbane"],
+    "flag": "🇦🇺"
+  },
+  {
+    "country": "India",
+    "cities": ["Mumbai", "Delhi", "Bangalore"],
+    "flag": "🇮🇳"
+  },
+  {
+    "country": "France",
+    "cities": ["Paris", "Marseille", "Lyon"],
+    "flag": "🇫🇷"
+  },
+  {
+    "country": "Germany",
+    "cities": ["Berlin", "Hamburg", "Munich"],
+    "flag": "🇩🇪"
+  },
+  {
+    "country": "Brazil",
+    "cities": ["São Paulo", "Rio de Janeiro", "Brasília"],
+    "flag": "🇧🇷"
+  },
+  {
+    "country": "Japan",
+    "cities": ["Tokyo", "Osaka", "Yokohama"],
+    "flag": "🇯🇵"
+  },
+  {
+    "country": "China",
+    "cities": ["Beijing", "Shanghai", "Guangzhou"],
+    "flag": "🇨🇳"
+  },
+  {
+    "country": "Russia",
+    "cities": ["Moscow", "Saint Petersburg", "Novosibirsk"],
+    "flag": "🇷🇺"
+  },
+  {
+    "country": "South Africa",
+    "cities": ["Johannesburg", "Cape Town", "Durban"],
+    "flag": "🇿🇦"
+  },
+  {
+    "country": "Mexico",
+    "cities": ["Mexico City", "Guadalajara", "Monterrey"],
+    "flag": "🇲🇽"
+  },
+  {
+    "country": "Italy",
+    "cities": ["Rome", "Milan", "Naples"],
+    "flag": "🇮🇹"
+  },
+  {
+    "country": "Spain",
+    "cities": ["Madrid", "Barcelona", "Valencia"],
+    "flag": "🇪🇸"
+  },
+  {
+    "country": "Argentina",
+    "cities": ["Buenos Aires", "Córdoba", "Rosario"],
+    "flag": "🇦🇷"
+  },
+  {
+    "country": "Chile",
+    "cities": ["Santiago", "Valparaíso", "Concepción"],
+    "flag": "🇨🇱"
+  },
+  {
+    "country": "Colombia",
+    "cities": ["Bogotá", "Medellín", "Cali"],
+    "flag": "🇨🇴"
+  },
+  {
+    "country": "Peru",
+    "cities": ["Lima", "Arequipa", "Trujillo"],
+    "flag": "🇵🇪"
+  },
+  {
+    "country": "Venezuela",
+    "cities": ["Caracas", "Maracaibo", "Valencia"],
+    "flag": "🇻🇪"
+  },
+  {
+    "country": "Saudi Arabia",
+    "cities": ["Riyadh", "Jeddah", "Mecca"],
+    "flag": "🇸🇦"
+  },
+  {
+    "country": "Egypt",
+    "cities": ["Cairo", "Alexandria", "Giza"],
+    "flag": "🇪🇬"
+  },
+  {
+    "country": "Nigeria",
+    "cities": ["Lagos", "Abuja", "Kano"],
+    "flag": "🇳🇬"
+  },
+  {
+    "country": "South Korea",
+    "cities": ["Seoul", "Busan", "Incheon"],
+    "flag": "🇰🇷"
+  },
+  {
+    "country": "Indonesia",
+    "cities": ["Jakarta", "Surabaya", "Bandung"],
+    "flag": "🇮🇩"
+  },
+  {
+    "country": "Philippines",
+    "cities": ["Manila", "Quezon City", "Davao City"],
+    "flag": "🇵🇭"
+  },
+  {
+    "country": "Vietnam",
+    "cities": ["Ho Chi Minh City", "Hanoi", "Da Nang"],
+    "flag": "🇻🇳"
+  },
+  {
+    "country": "Thailand",
+    "cities": ["Bangkok", "Chiang Mai", "Pattaya"],
+    "flag": "🇹🇭"
+  },
+  {
+    "country": "Malaysia",
+    "cities": ["Kuala Lumpur", "George Town", "Ipoh"],
+    "flag": "🇲🇾"
+  },
+  {
+    "country": "Singapore",
+    "cities": ["Singapore"],
+    "flag": "🇸🇬"
+  },
+  {
+    "country": "New Zealand",
+    "cities": ["Auckland", "Wellington", "Christchurch"],
+    "flag": "🇳🇿"
+  },
+  {
+    "country": "UAE",
+    "cities": ["Dubai", "Abu Dhabi", "Sharjah"],
+    "flag": "🇦🇪"
+  },
+  {
+    "country": "Qatar",
+    "cities": ["Doha", "Al Rayyan", "Al Wakrah"],
+    "flag": "🇶🇦"
+  },
+  {
+    "country": "Turkey",
+    "cities": ["Istanbul", "Ankara", "Izmir"],
+    "flag": "🇹🇷"
+  },
+  {
+    "country": "Greece",
+    "cities": ["Athens", "Thessaloniki", "Patras"],
+    "flag": "🇬🇷"
+  },
+  {
+    "country": "Portugal",
+    "cities": ["Lisbon", "Porto", "Vila Nova de Gaia"],
+    "flag": "🇵🇹"
+  },
+  {
+    "country": "Sweden",
+    "cities": ["Stockholm", "Gothenburg", "Malmö"],
+    "flag": "🇸🇪"
+  },
+  {
+    "country": "Norway",
+    "cities": ["Oslo", "Bergen", "Trondheim"],
+    "flag": "🇳🇴"
+  },
+  {
+    "country": "Finland",
+    "cities": ["Helsinki", "Espoo", "Tampere"],
+    "flag": "🇫🇮"
+  },
+  {
+    "country": "Denmark",
+    "cities": ["Copenhagen", "Aarhus", "Odense"],
+    "flag": "🇩🇰"
+  },
+  {
+    "country": "Iceland",
+    "cities": ["Reykjavik", "Kópavogur", "Hafnarfjörður"],
+    "flag": "🇮🇸"
+  },
+  {
+    "country": "Switzerland",
+    "cities": ["Zurich", "Geneva", "Basel"],
+    "flag": "🇨🇭"
+  },
+  {
+    "country": "Austria",
+    "cities": ["Vienna", "Graz", "Linz"],
+    "flag": "🇦🇹"
+  },
+  {
+    "country": "Belgium",
+    "cities": ["Brussels", "Antwerp", "Ghent"],
+    "flag": "🇧🇪"
+  },
+  {
+    "country": "Netherlands",
+    "cities": ["Amsterdam", "Rotterdam", "The Hague"],
+    "flag": "🇳🇱"
+  },
+  {
+    "country": "Poland",
+    "cities": ["Warsaw", "Kraków", "Łódź"],
+    "flag": "🇵🇱"
+  },
+  {
+    "country": "Czech Republic",
+    "cities": ["Prague", "Brno", "Ostrava"],
+    "flag": "🇨🇿"
+  },
+  {
+    "country": "Slovakia",
+    "cities": ["Bratislava", "Košice", "Prešov"],
+    "flag": "🇸🇰"
+  },
+  {
+    "country": "Hungary",
+    "cities": ["Budapest", "Debrecen", "Szeged"],
+    "flag": "🇭🇺"
+  },
+  {
+    "country": "Romania",
+    "cities": ["Bucharest", "Cluj-Napoca", "Timișoara"],
+    "flag": "🇷🇴"
+  },
+  {
+    "country": "Bulgaria",
+    "cities": ["Sofia", "Plovdiv", "Varna"],
+    "flag": "🇧🇬"
+  },
+  {
+    "country": "Serbia",
+    "cities": ["Belgrade", "Novi Sad", "Niš"],
+    "flag": "🇷🇸"
+  },
+  {
+    "country": "Croatia",
+    "cities": ["Zagreb", "Split", "Rijeka"],
+    "flag": "🇭🇷"
+  },
+  {
+    "country": "Slovenia",
+    "cities": ["Ljubljana", "Maribor", "Celje"],
+    "flag": "🇸🇮"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "cities": ["Sarajevo", "Banja Luka", "Mostar"],
+    "flag": "🇧🇦"
+  },
+  {
+    "country": "Montenegro",
+    "cities": ["Podgorica", "Nikšić", "Herceg Novi"],
+    "flag": "🇲🇪"
+  },
+  {
+    "country": "Kosovo",
+    "cities": ["Pristina", "Prizren", "Mitrovica"],
+    "flag": "🇽🇰"
+  },
+  {
+    "country": "North Macedonia",
+    "cities": ["Skopje", "Bitola", "Kumanovo"],
+    "flag": "🇲🇰"
+  },
+  {
+    "country": "Albania",
+    "cities": ["Tirana", "Durrës", "Vlorë"],
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Gibraltar",
+    "cities": ["Gibraltar"],
+    "flag": "🇬🇮"
+  },
+  {
+    "country": "Israel",
+    "cities": ["Jerusalem", "Tel Aviv", "Haifa"],
+    "flag": "🇮🇱"
+  },
+  {
+    "country": "Jordan",
+    "cities": ["Amman", "Zarqa", "Irbid"],
+    "flag": "🇯🇴"
+  },
+  {
+    "country": "Lebanon",
+    "cities": ["Beirut", "Tripoli", "Sidon"],
+    "flag": "🇱🇧"
+  },
+  {
+    "country": "Iraq",
+    "cities": ["Baghdad", "Basra", "Erbil"],
+    "flag": "🇮🇶"
+  },
+  {
+    "country": "Iran",
+    "cities": ["Tehran", "Mashhad", "Isfahan"],
+    "flag": "🇮🇷"
+  },
+  {
+    "country": "Pakistan",
+    "cities": ["Karachi", "Lahore", "Islamabad"],
+    "flag": "🇵🇰"
+  },
+  {
+    "country": "Bangladesh",
+    "cities": ["Dhaka", "Chittagong", "Khulna"],
+    "flag": "🇧🇩"
+  },
+  {
+    "country": "Nepal",
+    "cities": ["Kathmandu", "Pokhara", "Lalitpur"],
+    "flag": "🇳🇵"
+  },
+  {
+    "country": "Sri Lanka",
+    "cities": ["Colombo", "Kandy", "Galle"],
+    "flag": "🇱🇰"
+  },
+  {
+    "country": "Bhutan",
+    "cities": ["Thimphu", "Paro", "Punakha"],
+    "flag": "🇧🇹"
+  },
+  {
+    "country": "Maldives",
+    "cities": ["Malé", "Addu City", "Fuvahmulah"],
+    "flag": "🇲🇻"
+  },
+  {
+    "country": "Kazakhstan",
+    "cities": ["Nur-Sultan", "Almaty", "Shymkent"],
+    "flag": "🇰🇿"
+  },
+  {
+    "country": "Uzbekistan",
+    "cities": ["Tashkent", "Samarkand", "Bukhara"],
+    "flag": "🇺🇿"
+  },
+  {
+    "country": "Turkmenistan",
+    "cities": ["Ashgabat", "Turkmenabat", "Mary"],
+    "flag": "🇹🇲"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "cities": ["Bishkek", "Osh", "Jalal-Abad"],
+    "flag": "🇰🇬"
+  },
+  {
+    "country": "Tajikistan",
+    "cities": ["Dushanbe", "Khujand", "Kulob"],
+    "flag": "🇹🇯"
+  },
+  {
+    "country": "Mongolia",
+    "cities": ["Ulaanbaatar", "Erdenet", "Darkhan"],
+    "flag": "🇲🇳"
+  },
+  {
+    "country": "Myanmar",
+    "cities": ["Yangon", "Mandalay", "Naypyidaw"],
+    "flag": "🇲🇲"
+  },
+  {
+    "country": "Kenya",
+    "cities": ["Nairobi", "Mombasa", "Kisumu"],
+    "flag": "🇰🇪"
+  },
+  {
+    "country": "Uganda",
+    "cities": ["Kampala", "Entebbe", "Jinja"],
+    "flag": "🇺🇬"
+  },
+  {
+    "country": "Tanzania",
+    "cities": ["Dar es Salaam", "Arusha", "Dodoma"],
+    "flag": "🇹🇿"
+  },
+  {
+    "country": "Ethiopia",
+    "cities": ["Addis Ababa", "Dire Dawa", "Gondar"],
+    "flag": "🇪🇹"
+  },
+  {
+    "country": "Ghana",
+    "cities": ["Accra", "Kumasi", "Tamale"],
+    "flag": "🇬🇭"
+  },
+  {
+    "country": "Senegal",
+    "cities": ["Dakar", "Thiès", "Touba"],
+    "flag": "🇸🇳"
+  },
+  {
+    "country": "Mali",
+    "cities": ["Bamako", "Sikasso", "Mopti"],
+    "flag": "🇲🇱"
+  },
+  {
+    "country": "Niger",
+    "cities": ["Niamey", "Zinder", "Maradi"],
+    "flag": "🇳🇪"
+  },
+  {
+    "country": "Cameroon",
+    "cities": ["Yaoundé", "Douala", "Garoua"],
+    "flag": "🇨🇲"
+  },
+  {
+    "country": "Angola",
+    "cities": ["Luanda", "Huambo", "Lobito"],
+    "flag": "🇦🇴"
+  },
+  {
+    "country": "Zimbabwe",
+    "cities": ["Harare", "Bulawayo", "Chitungwiza"],
+    "flag": "🇿🇼"
+  },
+  {
+    "country": "Zambia",
+    "cities": ["Lusaka", "Kitwe", "Ndola"],
+    "flag": "🇿🇲"
+  },
+  {
+    "country": "Liberia",
+    "cities": ["Monrovia", "Gbarnga", "Kakata"],
+    "flag": "🇱🇷"
+  },
+  {
+    "country": "Sierra Leone",
+    "cities": ["Freetown", "Bo", "Kenema"],
+    "flag": "🇸🇱"
+  },
+  {
+    "country": "Guinea",
+    "cities": ["Conakry", "Kankan", "Nzérékoré"],
+    "flag": "🇬🇳"
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "cities": ["Abidjan", "Yamoussoukro", "Bouaké"],
+    "flag": "🇨🇮"
+  },
+  {
+    "country": "Burkina Faso",
+    "cities": ["Ouagadougou", "Bobo-Dioulasso", "Koudougou"],
+    "flag": "🇧🇫"
+  },
+  {
+    "country": "Gabon",
+    "cities": ["Libreville", "Port-Gentil", "Franceville"],
+    "flag": "🇬🇦"
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "cities": ["Brazzaville", "Pointe-Noire", "Dolisie"],
+    "flag": "🇨🇬"
+  },
+  {
+    "country": "DR Congo",
+    "cities": ["Kinshasa", "Lubumbashi", "Mbuji-Mayi"],
+    "flag": "🇨🇩"
+  },
+  {
+    "country": "Madagascar",
+    "cities": ["Antananarivo", "Toamasina", "Antsirabe"],
+    "flag": "🇲🇬"
+  },
+  {
+    "country": "Mauritius",
+    "cities": ["Port Louis", "Vacoas", "Curepipe"],
+    "flag": "🇲🇺"
+  },
+  {
+    "country": "Seychelles",
+    "cities": ["Victoria", "Anse Boileau", "Bel Ombre"],
+    "flag": "🇸🇨"
+  },
+  {
+    "country": "Comoros",
+    "cities": ["Moroni", "Mutsamudu", "Fomboni"],
+    "flag": "🇰🇲"
+  },
+  {
+    "country": "Cape Verde",
+    "cities": ["Praia", "Mindelo", "Santa Maria"],
+    "flag": "🇨🇻"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "cities": ["Bissau", "Bafatá", "Gabú"],
+    "flag": "🇬🇼"
+  },
+  {
+    "country": "Togo",
+    "cities": ["Lomé", "Sokodé", "Kara"],
+    "flag": "🇹🇬"
+  },
+  {
+    "country": "Benin",
+    "cities": ["Cotonou", "Porto-Novo", "Parakou"],
+    "flag": "🇧🇯"
+  },
+  {
+    "country": "Chad",
+    "cities": ["N'Djamena", "Moundou", "Sarh"],
+    "flag": "🇹🇩"
+  },
+  {
+    "country": "Central African Republic",
+    "cities": ["Bangui", "Bimbo", "Berbérati"],
+    "flag": "🇨🇫"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "cities": ["Malabo", "Bata", "Ebebiyin"],
+    "flag": "🇬🇶"
+  },
+  {
+    "country": "Rwanda",
+    "cities": ["Kigali", "Butare", "Gitarama"],
+    "flag": "🇷🇼"
+  },
+  {
+    "country": "Burundi",
+    "cities": ["Bujumbura", "Gitega", "Ngozi"],
+    "flag": "🇧🇮"
+  },
+  {
+    "country": "Djibouti",
+    "cities": ["Djibouti City", "Ali Sabieh", "Tadjoura"],
+    "flag": "🇩🇯"
+  },
+  {
+    "country": "Eritrea",
+    "cities": ["Asmara", "Keren", "Massawa"],
+    "flag": "🇪🇷"
+  },
+  {
+    "country": "Somalia",
+    "cities": ["Mogadishu", "Hargeisa", "Bosaso"],
+    "flag": "🇸🇴"
+  },
+  {
+    "country": "Botswana",
+    "cities": ["Gaborone", "Francistown", "Maun"],
+    "flag": "🇧🇼"
+  },
+  {
+    "country": "Namibia",
+    "cities": ["Windhoek", "Swakopmund", "Walvis Bay"],
+    "flag": "🇳🇦"
+  },
+  {
+    "country": "Lesotho",
+    "cities": ["Maseru", "Teyateyaneng", "Mafeteng"],
+    "flag": "🇱🇸"
+  },
+  {
+    "country": "Eswatini",
+    "cities": ["Mbabane", "Manzini", "Lobamba"],
+    "flag": "🇸🇿"
+  },
+  {
+    "country": "Mozambique",
+    "cities": ["Maputo", "Beira", "Nampula"],
+    "flag": "🇲🇿"
+  },
+  {
+    "country": "Malawi",
+    "cities": ["Lilongwe", "Blantyre", "Mzuzu"],
+    "flag": "🇲🇼"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "cities": ["São Tomé", "Santo António", "Neves"],
+    "flag": "🇸🇹"
+  },
+  {
+    "country": "Belize",
+    "cities": ["Belmopan", "Belize City", "San Ignacio"],
+    "flag": "🇧🇿"
+  },
+  {
+    "country": "Costa Rica",
+    "cities": ["San José", "Alajuela", "Cartago"],
+    "flag": "🇨🇷"
+  },
+  {
+    "country": "El Salvador",
+    "cities": ["San Salvador", "Santa Ana", "San Miguel"],
+    "flag": "🇸🇻"
+  },
+  {
+    "country": "Guatemala",
+    "cities": ["Guatemala City", "Quetzaltenango", "Escuintla"],
+    "flag": "🇬🇹"
+  },
+  {
+    "country": "Honduras",
+    "cities": ["Tegucigalpa", "San Pedro Sula", "La Ceiba"],
+    "flag": "🇭🇳"
+  },
+  {
+    "country": "Nicaragua",
+    "cities": ["Managua", "León", "Masaya"],
+    "flag": "🇳🇮"
+  },
+  {
+    "country": "Panama",
+    "cities": ["Panama City", "San Miguelito", "David"],
+    "flag": "🇵🇦"
+  },
+  {
+    "country": "Jamaica",
+    "cities": ["Kingston", "Montego Bay", "Spanish Town"],
+    "flag": "🇯🇲"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "cities": ["Port of Spain", "San Fernando", "Chaguanas"],
+    "flag": "🇹🇹"
+  },
+  {
+    "country": "Barbados",
+    "cities": ["Bridgetown", "Speightstown", "Oistins"],
+    "flag": "🇧🇧"
+  },
+  {
+    "country": "Grenada",
+    "cities": ["St. George's", "Gouyave", "Victoria"],
+    "flag": "🇬🇩"
+  },
+  {
+    "country": "Saint Lucia",
+    "cities": ["Castries", "Vieux Fort", "Gros Islet"],
+    "flag": "🇱🇨"
+  },
+  {
+    "country": "Dominica",
+    "cities": ["Roseau", "Portsmouth", "Marigot"],
+    "flag": "🇩🇲"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "cities": ["Basseterre", "Charlestown", "Sandy Point Town"],
+    "flag": "🇰🇳"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "cities": ["St. John's", "All Saints", "Liberta"],
+    "flag": "🇦🇬"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "cities": ["Kingstown", "Kingstown Park", "Layou"],
+    "flag": "🇻🇨"
+  },
+  {
+    "country": "Guyana",
+    "cities": ["Georgetown", "Linden", "New Amsterdam"],
+    "flag": "🇬🇾"
+  },
+  {
+    "country": "Suriname",
+    "cities": ["Paramaribo", "Lelydorp", "Nieuw Nickerie"],
+    "flag": "🇸🇷"
+  },
+  {
+    "country": "Uruguay",
+    "cities": ["Montevideo", "Salto", "Paysandú"],
+    "flag": "🇺🇾"
+  },
+  {
+    "country": "Paraguay",
+    "cities": ["Asunción", "Ciudad del Este", "San Lorenzo"],
+    "flag": "🇵🇾"
+  },
+  {
+    "country": "Bolivia",
+    "cities": ["La Paz", "Santa Cruz de la Sierra", "Cochabamba"],
+    "flag": "🇧🇴"
+  },
+  {
+    "country": "Ecuador",
+    "cities": ["Quito", "Guayaquil", "Cuenca"],
+    "flag": "🇪🇨"
+  },
+  {
+    "country": "Fiji",
+    "cities": ["Suva", "Lautoka", "Nadi"],
+    "flag": "🇫🇯"
+  },
+  {
+    "country": "Papua New Guinea",
+    "cities": ["Port Moresby", "Lae", "Arawa"],
+    "flag": "🇵🇬"
+  },
+  {
+    "country": "Solomon Islands",
+    "cities": ["Honiara", "Auki", "Gizo"],
+    "flag": "🇸🇧"
+  },
+  {
+    "country": "Vanuatu",
+    "cities": ["Port Vila", "Luganville", "Norsup"],
+    "flag": "🇻🇺"
+  },
+  {
+    "country": "Tonga",
+    "cities": ["Nuku'alofa", "Neiafu", "Haveluloto"],
+    "flag": "🇹🇴"
+  },
+  {
+    "country": "Samoa",
+    "cities": ["Apia", "Asau", "Mulifanua"],
+    "flag": "🇼🇸"
+  },
+  {
+    "country": "Kiribati",
+    "cities": ["South Tarawa", "Bairiki", "Betio Village"],
+    "flag": "🇰🇮"
+  },
+  {
+    "country": "Micronesia",
+    "cities": ["Palikir", "Weno", "Kolonia"],
+    "flag": "🇫🇲"
+  },
+  {
+    "country": "Palau",
+    "cities": ["Ngerulmud", "Koror", "Airai"],
+    "flag": "🇵🇼"
+  },
+  {
+    "country": "Marshall Islands",
+    "cities": ["Majuro", "Ebeye", "Jabor"],
+    "flag": "🇲🇭"
+  },
+  {
+    "country": "Nauru",
+    "cities": ["Yaren", "Meneng", "Aiwo"],
+    "flag": "🇳🇷"
+  },
+  {
+    "country": "Tuvalu",
+    "cities": ["Funafuti", "Alapi Village", "Asau"],
+    "flag": "🇹🇻"
+  },
+  {
+    "country": "Mauritania",
+    "cities": ["Nouakchott", "Nouadhibou", "Kiffa"],
+    "flag": "🇲🇷"
+  },
+  {
+    "country": "Gambia",
+    "cities": ["Banjul", "Serekunda", "Brikama"],
+    "flag": "🇬🇲"
+  },
+  {
+    "country": "Moldova",
+    "cities": ["Chișinău", "Tiraspol", "Bălți"],
+    "flag": "🇲🇩"
+  },
+  {
+    "country": "Cyprus",
+    "cities": ["Nicosia", "Limassol", "Larnaca"],
+    "flag": "🇨🇾"
+  },
+  {
+    "country": "Malta",
+    "cities": ["Valletta", "Birkirkara", "Sliema"],
+    "flag": "🇲🇹"
+  },
+  {
+    "country": "Luxembourg",
+    "cities": ["Luxembourg City", "Esch-sur-Alzette", "Differdange"],
+    "flag": "🇱🇺"
+  },
+  {
+    "country": "Monaco",
+    "cities": ["Monaco", "Monte Carlo", "La Condamine"],
+    "flag": "🇲🇨"
+  },
+  {
+    "country": "Liechtenstein",
+    "cities": ["Vaduz", "Schaan", "Balzers"],
+    "flag": "🇱🇮"
+  },
+  {
+    "country": "San Marino",
+    "cities": ["San Marino", "Serravalle", "Borgo Maggiore"],
+    "flag": "🇸🇲"
+  },
+  {
+    "country": "Andorra",
+    "cities": ["Andorra la Vella", "Escaldes-Engordany", "Encamp"],
+    "flag": "🇦🇩"
+  },
+  {
+    "country": "Bahrain",
+    "cities": ["Manama", "Riffa", "Muharraq"],
+    "flag": "🇧🇭"
+  },
+  {
+    "country": "Brunei",
+    "cities": ["Bandar Seri Begawan", "Kuala Belait", "Seria"],
+    "flag": "🇧🇳"
+  },
+  {
+    "country": "Timor-Leste",
+    "cities": ["Dili", "Baucau", "Maliana"],
+    "flag": "🇹🇱"
+  },
+  {
+    "country": "Malta",
+    "cities": ["Valletta", "Mdina", "Sliema"],
+    "flag": "🇲🇹"
+  },
+  {
+    "country": "Seychelles",
+    "cities": ["Victoria", "Anse Boileau", "Beau Vallon"],
+    "flag": "🇸🇨"
+  },
+  {
+    "country": "Maldives",
+    "cities": ["Malé", "Hithadhoo", "Fuvahmulah"],
+    "flag": "🇲🇻"
+  },
+  {
+    "country": "Qatar",
+    "cities": ["Doha", "Al Rayyan", "Al Wakrah"],
+    "flag": "🇶🇦"
+  },
+  {
+    "country": "Kuwait",
+    "cities": ["Kuwait City", "Al Ahmadi", "Hawalli"],
+    "flag": "🇰🇼"
+  },
+  {
+    "country": "Oman",
+    "cities": ["Muscat", "Salalah", "Sohar"],
+    "flag": "🇴🇲"
+  },
+  {
+    "country": "Bhutan",
+    "cities": ["Thimphu", "Paro", "Punakha"],
+    "flag": "🇧🇹"
+  },
+  {
+    "country": "Armenia",
+    "cities": ["Yerevan", "Gyumri", "Vanadzor"],
+    "flag": "🇦🇲"
+  },
+  {
+    "country": "Georgia",
+    "cities": ["Tbilisi", "Batumi", "Kutaisi"],
+    "flag": "🇬🇪"
+  },
+  {
+    "country": "Azerbaijan",
+    "cities": ["Baku", "Ganja", "Sumqayit"],
+    "flag": "🇦🇿"
+  },
+  {
+    "country": "Mongolia",
+    "cities": ["Ulaanbaatar", "Erdenet", "Darkhan"],
+    "flag": "🇲🇳"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "cities": ["Bishkek", "Osh", "Jalal-Abad"],
+    "flag": "🇰🇬"
+  },
+  {
+    "country": "Tajikistan",
+    "cities": ["Dushanbe", "Khujand", "Kulob"],
+    "flag": "🇹🇯"
+  },
+  {
+    "country": "Turkmenistan",
+    "cities": ["Ashgabat", "Turkmenabat", "Mary"],
+    "flag": "🇹🇲"
+  },
+  {
+    "country": "Iceland",
+    "cities": ["Reykjavik", "Akureyri", "Keflavik"],
+    "flag": "🇮🇸"
+  },
+  {
+    "country": "Greenland",
+    "cities": ["Nuuk", "Sisimiut", "Ilulissat"],
+    "flag": "🇬🇱"
+  },
+  {
+    "country": "Falkland Islands",
+    "cities": ["Stanley", "Mount Pleasant", "Goose Green"],
+    "flag": "🇫🇰"
+  },
+  {
+    "country": "Faroe Islands",
+    "cities": ["Tórshavn", "Klaksvík", "Runavík"],
+    "flag": "🇫🇴"
+  },
+  {
+    "country": "Guam",
+    "cities": ["Hagåtña", "Dededo", "Tamuning"],
+    "flag": "🇬🇺"
+  },
+  {
+    "country": "American Samoa",
+    "cities": ["Pago Pago", "Tafuna", "Leone"],
+    "flag": "🇦🇸"
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "cities": ["Saipan", "Tinian", "Rota"],
+    "flag": "🇲🇵"
+  },
+  {
+    "country": "Bermuda",
+    "cities": ["Hamilton", "Saint George's", "Flatts Village"],
+    "flag": "🇧🇲"
+  },
+  {
+    "country": "Cayman Islands",
+    "cities": ["George Town", "West Bay", "Bodden Town"],
+    "flag": "🇰🇾"
+  },
+  {
+    "country": "British Virgin Islands",
+    "cities": ["Road Town", "Spanish Town", "The Valley"],
+    "flag": "🇻🇬"
+  },
+  {
+    "country": "Anguilla",
+    "cities": ["The Valley", "Blowing Point", "Sandy Ground"],
+    "flag": "🇦🇮"
+  },
+  {
+    "country": "Montserrat",
+    "cities": ["Plymouth", "Brades", "Little Bay"],
+    "flag": "🇲🇸"
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "cities": ["Cockburn Town", "Providenciales", "Grand Turk"],
+    "flag": "🇹🇨"
+  },
+  {
+    "country": "Saint Helena, Ascension and Tristan da Cunha",
+    "cities": ["Jamestown", "Georgetown", "Edinburgh of the Seven Seas"],
+    "flag": "🇸🇭"
+  },
+  {
+    "country": "Western Sahara",
+    "cities": ["Laayoune", "Dakhla", "Smara"],
+    "flag": "🇪🇭"
+  },
+  {
+    "country": "French Polynesia",
+    "cities": ["Papeete", "Faaa", "Punaauia"],
+    "flag": "🇵🇫"
+  },
+  {
+    "country": "New Caledonia",
+    "cities": ["Nouméa", "Mont-Dore", "Dumbéa"],
+    "flag": "🇳🇨"
+  },
+  {
+    "country": "Wallis and Futuna",
+    "cities": ["Mata-Utu", "Leava", "Alo"],
+    "flag": "🇼🇫"
+  },
+  {
+    "country": "Cook Islands",
+    "cities": ["Avarua", "Arorangi", "Aitutaki"],
+    "flag": "🇨🇰"
+  },
+  {
+    "country": "Niue",
+    "cities": ["Alofi", "Avatele", "Hakupu"],
+    "flag": "🇳🇺"
+  },
+  {
+    "country": "Tokelau",
+    "cities": ["Atafu", "Nukunonu", "Fakaofo"],
+    "flag": "🇹🇰"
+  },
+  {
+    "country": "Pitcairn Islands",
+    "cities": ["Adamstown"],
+    "flag": "🇵🇳"
+  },
+  {
+    "country": "Cocos (Keeling) Islands",
+    "cities": ["West Island", "Bantam"],
+    "flag": "🇨🇨"
+  },
+  {
+    "country": "Christmas Island",
+    "cities": ["Flying Fish Cove", "Silver City", "Poon Saan"],
+    "flag": "🇨🇽"
+  },
+  {
+    "country": "Norfolk Island",
+    "cities": ["Kingston", "Burnt Pine", "Anson Bay"],
+    "flag": "🇳🇫"
+  },
+  {
+    "country": "Svalbard and Jan Mayen",
+    "cities": ["Longyearbyen", "Barentsburg", "Ny-Ålesund"],
+    "flag": "🇸🇯"
+  },
+  {
+    "country": "Gibraltar",
+    "cities": ["Gibraltar"],
+    "flag": "🇬🇮"
+  },
+  {
+    "country": "Guernsey",
+    "cities": ["St. Peter Port", "St. Sampson", "Vale"],
+    "flag": "🇬🇬"
+  },
+  {
+    "country": "Jersey",
+    "cities": ["Saint Helier", "Saint Brélade", "Saint Clément"],
+    "flag": "🇯🇪"
+  },
+  {
+    "country": "Isle of Man",
+    "cities": ["Douglas", "Ramsey", "Peel"],
+    "flag": "🇮🇲"
+  },
+  {
+    "country": "Mayotte",
+    "cities": ["Mamoudzou", "Dzaoudzi", "Dembeni"],
+    "flag": "🇾🇹"
+  },
+  {
+    "country": "Réunion",
+    "cities": ["Saint-Denis", "Saint-Paul", "Saint-Pierre"],
+    "flag": "🇷🇪"
+  },
+  {
+    "country": "Martinique",
+    "cities": ["Fort-de-France", "Le Lamentin", "Le Robert"],
+    "flag": "🇲🇶"
+  },
+  {
+    "country": "Guadeloupe",
+    "cities": ["Les Abymes", "Baie-Mahault", "Pointe-à-Pitre"],
+    "flag": "🇬🇵"
+  },
+  {
+    "country": "French Guiana",
+    "cities": ["Cayenne", "Saint-Laurent-du-Maroni", "Kourou"],
+    "flag": "🇬🇫"
+  },
+  {
+    "country": "Aruba",
+    "cities": ["Oranjestad", "San Nicolas", "Noord"],
+    "flag": "🇦🇼"
+  },
+  {
+    "country": "Curaçao",
+    "cities": ["Willemstad", "Sint Michiel", "Barber"],
+    "flag": "🇨🇼"
+  },
+  {
+    "country": "Sint Maarten",
+    "cities": ["Philipsburg", "Lower Prince's Quarter", "Cul de Sac"],
+    "flag": "🇸🇽"
+  },
+  {
+    "country": "Bonaire, Sint Eustatius and Saba",
+    "cities": ["Kralendijk", "Oranjestad", "The Bottom"],
+    "flag": "🇧🇶"
+  },
+  {
+    "country": "Vatican City",
+    "cities": ["Vatican City"],
+    "flag": "🇻🇦"
+  },
+  {
+    "country": "Palestine",
+    "cities": ["Ramallah", "Gaza", "Hebron"],
+    "flag": "🇵🇸"
+  },
+  {
+    "country": "Western Sahara",
+    "cities": ["Laayoune", "Dakhla", "Smara"],
+    "flag": "🇪🇭"
+  },
+  {
+    "country": "Taiwan",
+    "cities": ["Taipei", "Kaohsiung", "Taichung"],
+    "flag": "🇹🇼"
+  }
+]
