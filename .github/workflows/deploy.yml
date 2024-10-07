@@ -35,6 +35,6 @@ jobs:
 
       # - run: kamal registry login --verbose
       # - run: kamal lock release --verbose
-      # - run: kamal remove -y --verbose
+      - run: kamal remove -y --verbose
       - run: kamal setup --verbose
       # - run: kamal deploy --verbose
